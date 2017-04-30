@@ -14,8 +14,11 @@
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
+    GoogleContacts \
+    GoogleDialer \
     NexusLauncherIcons \
     NexusWallpapersStubPrebuilt \
+    PrebuiltBugle \
     WallpaperPickerGooglePrebuilt \
     NexusLauncherPrebuilt \
     WallpapersUsTwo
