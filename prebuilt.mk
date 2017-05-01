@@ -18,7 +18,6 @@ PRODUCT_PACKAGES += \
     GoogleDialer \
     NexusLauncherIcons \
     NexusWallpapersStubPrebuilt \
-    PrebuiltBugle \
     WallpaperPickerGooglePrebuilt \
     NexusLauncherPrebuilt \
     WallpapersUsTwo
